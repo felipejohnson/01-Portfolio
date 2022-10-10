@@ -22,9 +22,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-## 📚 Bibliotecas
+## 📚 Bibliotecas & Framework JavaScript
 
 - [Google Fonts](https://fonts.google.com/)
+- [Vue.js](https://vuejs.org/)
 
 ## 🔗 Links
 
