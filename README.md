@@ -10,7 +10,7 @@
   
 ## 📝 Descrição 
 
-Meu portfolio criado com o objetivo de mostrar meus projetos ao longo da minha carreira.  
+Meu Primeiro portfolio criado com o objetivo de mostrar minhas habilidades.
 
 - site final: [testePortfolio]()
 
