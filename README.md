@@ -1,10 +1,10 @@
 <h1 align="center">
-  Meu Portfolio 💻
+  Meu Primeiro portfolio ☕
 </h1>
 
 <br>
 
-![Resultado final do projeto]()
+![Resultado final do projeto](/img.png)
 
 <br>
   
